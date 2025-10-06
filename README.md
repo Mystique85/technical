@@ -28,7 +28,7 @@ buy/sell graph. - MovingAverage Consensus - Oscillator Consensus - Summary Conse
 * [vpci](https://www.tradingview.com/script/lmTqKOsa-Indicator-Volume-Price-Confirmation-Indicator-VPCI/)
 * [trendlines](https://en.wikipedia.org/wiki/Trend_line_(technical_analysis)) - 2 different algorithms to calculate trendlines
 * [fibonacci_retracements](https://www.investopedia.com/terms/f/fibonacciretracement.asp) - an indicator showing the fibonacci level which each candle exceeds
-* [pivots points](https://www.tradingview.com/support/solutions/43000521824-pivot-points-standard/)
+* [Pivot Points](https://www.tradingview.com/support/solutions/43000521824-pivot-points-standard/)
 * [TKE Indicator](https://www.tradingview.com/script/Pcbvo0zG/) - Arithmetical mean of 7 oscilators
 * [Volume Weighted MACD](https://www.tradingview.com/script/wVe6AfGA) - Volume Weighted MACD indicator
 * [RMI](https://www.marketvolume.com/technicalanalysis/relativemomentumindex.asp) - Relative Momentum indicator
